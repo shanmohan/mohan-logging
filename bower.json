@@ -1,0 +1,26 @@
+{
+  "name": "Mohan Shanmugarajah",
+  "version": "0.01",
+  "homepage": "https://github.com/shanmohan/mohan-ng-logging",
+  "authors": [
+    "shanmohan <shanmohan@gmail.com>"
+  ],
+  "description": "angular client side error/debug logging module",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "angular",
+    "client",
+    "side",
+    "logging"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
