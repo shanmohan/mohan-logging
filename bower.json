@@ -1,26 +1,42 @@
 {
-  "name": "Mohan Shanmugarajah",
-  "version": "0.01",
-  "homepage": "https://github.com/shanmohan/mohan-ng-logging",
-  "authors": [
-    "shanmohan <shanmohan@gmail.com>"
-  ],
-  "description": "angular client side error/debug logging module",
-  "moduleType": [
-    "node"
-  ],
-  "keywords": [
-    "angular",
-    "client",
-    "side",
-    "logging"
-  ],
-  "license": "MIT",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ]
+    "name": "mohan-ng-logging",
+    "version": "0.0.1",
+    "title": "mohan-ng-logging",
+    "appPath": "app",
+    "description": "client side logging framework",
+    "keywords": [
+        "image",
+        "video",
+        "gallery"
+    ],
+    "homepage": "https://github.com/shanmohan/mohan-ng-logging",
+    "author": {
+        "name": "Mohan Shanmugarajah"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/shanmohan/mohan-ng-logging.git"
+    },
+    "bugs": "https://github.com/shanmohan/mohan-ng-logging/issues",
+    "dependencies": {
+        "jquery": ">=2.1.1"
+    },
+    "main": [
+        "app/css/mohan-ng-logging",
+        "app/img/sprites.gif",
+        "app/js/mohan-ng-logging"
+    ],
+    "ignore": [
+        "/*.*",
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "app/bower_components",
+        "test",
+        "tests"
+    ],
+    "authors": [
+        "Mohan Shanmugarajah <YOUR_MAIL@gmail.com>"
+    ],
+    "license": "MIT"
 }
